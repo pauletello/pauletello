@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pauletello
-- 👀 I work as the JAMF Systems Administrator for TOMS. 
+- 👀 I work as the Senior Systems Administrator for SpaceX. 
 - 🌱 I actively use scripts from github to help with my day-day operations. 
 - 📫 How to reach me is email: pauletello@icloud.com
 
